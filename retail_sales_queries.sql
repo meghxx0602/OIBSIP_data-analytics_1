@@ -127,7 +127,7 @@ FROM sales
 GROUP BY YEAR(Date), MONTH(Date), MONTHNAME(Date)
 ORDER BY Year, MonthNumber;
 
--- TOP SPENDING CUSTOMERS
+-- 16. TOP SPENDING CUSTOMERS
 SELECT 
     Customer_Id,
     SUM(Total_amount) AS TotalSpend
