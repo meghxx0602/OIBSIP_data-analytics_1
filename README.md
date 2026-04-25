@@ -10,7 +10,7 @@ OIBSIP internship project for data analytics including queries, outputs, and vis
 This project is part of the OIBSIP internship program and demonstrates SQL skills applied to retail sales data. The goal is to import, clean, and analyze transactional data to uncover customer behavior, product performance, and sales trends. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering business-driven questions through SQL queries. It is designed for learners starting their journey in data analytics and aiming to build a solid foundation in SQL with practical insights.
 
 ## Objectives
-- **Dataset Input:** Import the provided retail dataset into the `OIBSIP_data-analytics_1` database using MySQL Workbench for analysis.  
+- **Dataset Input:** Import the provided retail dataset into the `retail_sales` database using MySQL Workbench for analysis.  
 - **Database Setup:** Create and populate tables with retail sales records.  
 - **Data Cleaning:** Handle missing values, duplicates, and ensure data consistency.  
 - **Exploratory Data Analysis (EDA):** Run SQL queries to understand customer demographics, product categories, and monthly sales trends.  
