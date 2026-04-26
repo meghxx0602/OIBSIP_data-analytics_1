@@ -262,3 +262,34 @@ Based on the exploratory data analysis (EDA), the following recommendations can 
 - **Transaction Segmentation:** Identify premium buyers (₹2000 transactions) for exclusive offers, mid-range buyers (₹900–₹1500) for bundled deals, and budget shoppers (<₹500) for volume-based discounts.
 - **Pricing Optimization:** Maintain competitive pricing within the ₹25–₹500 range, ensuring affordability while sustaining margins.
 - **Visualization Use:** Continue leveraging charts (bar, pie, line, heatmap) to monitor trends and communicate insights effectively to stakeholders.
+
+## 👤 Author
+
+**Shabana Mallick**
+- GitHub: [@meghxx0602](https://github.com/meghxx0602)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
