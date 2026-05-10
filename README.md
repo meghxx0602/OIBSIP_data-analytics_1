@@ -267,6 +267,7 @@ Based on the exploratory data analysis (EDA), the following recommendations can 
 
 **Shabana Mallick**
 - GitHub: [@meghxx0602](https://github.com/meghxx0602)
+- Linkedln: [Shabana Mallick](www.linkedin.com/in/shabana-mallick1220)
 
 
 
